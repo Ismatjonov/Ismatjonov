@@ -84,7 +84,7 @@
 
 ## 📫 Связь
 
-- Telegram: [@roslyner](https://t.me/roslyner)  
+- Telegram: [@ibb1488](https://t.me/ibb1488)  
 - Email: [bakhtovar685@gmail.com](mailto:bakhtovar685@gmail.com)  
 
 ---
