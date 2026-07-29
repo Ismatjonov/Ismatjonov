@@ -20,7 +20,7 @@
 ## ⚙️ Технологии
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,rider,git,github,mssql" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,rider,git,github,mssql" />
 </p>
 
 ### 💻 Языки программирования
