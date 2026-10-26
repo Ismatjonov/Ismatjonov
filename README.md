@@ -27,7 +27,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000814,50:001f3f,100:4d194d&height=170&text=CYBER%20ENGINE&fontSize=54&fontColor=00F7FF&animation=blink" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000814,50:001f3f,100:4d194d&height=170&text=ROSLYNER&fontSize=54&fontColor=00F7FF&animation=blink" />
 </p>
 
 ## 🖤 CORE SIGNAL
