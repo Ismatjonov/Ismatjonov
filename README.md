@@ -46,23 +46,6 @@ Backend developer building clean, reliable and useful systems for real business 
   <img src="https://skillicons.dev/icons?i=python,php,js,ts,html,css,bootstrap,tailwind,vue,mysql" />
 </p>
 
----
-
-## 🚨 ACTIVE PROJECT
-
-### Financial Manager for Business
-
-> System for operations, finance, warehouse and analytics.
-
-- 👤 Owner registration
-- 🔑 Employee access codes
-- 📦 Inventory management
-- 💰 Income and expense tracking
-- 📊 Business analytics
-
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-FFB703?style=for-the-badge" alt="Project status" />
-</p>
 
 ---
 
