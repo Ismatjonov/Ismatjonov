@@ -1,11 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&lines=BAKHTOVAR+ISMATJONOV;DARK+CYBER+ENGINEER;C%23+ASP.NET+CORE" alt="Dark hacker intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&lines=BAKHTOVAR+ISMATJONOV;DARK+CYBER+ENGINEER;C%23+ASP.NET+CORE" alt="Dark cyber intro" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DARK-CRYPTO-%2300F7FF?style=for-the-badge&logo=github&logoColor=white" alt="Dark crypto" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00F7FF?style=for-the-badge&logo=code&logoColor=white" alt="Status online" />
   <img src="https://img.shields.io/badge/.NET-C%23-512BD4?style=for-the-badge&logo=.NET&logoColor=white" alt=".NET C#" />
-  <img src="https://img.shields.io/badge/CORE-BACKEND-FF4D6D?style=for-the-badge" alt="Core backend" />
+  <img src="https://img.shields.io/badge/BACKEND-BUILDER-FF4D6D?style=for-the-badge" alt="Backend builder" />
 </p>
 
 <p align="center">
@@ -21,22 +21,22 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&color=00F7FF&center=true&vCenter=true&lines=BUILDING+SYSTEMS;POWERING+BUSINESS+LOGIC;REAL+WORLD+APIs" alt="Dark hacker text" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&color=00F7FF&center=true&vCenter=true&lines=BUILDING+SYSTEMS;REAL+WORLD+API;BUSINESS+LOGIC" alt="Typing intro" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000814,50:001f3f,100:4d194d&height=170&text=CYBER%20ELITE&fontSize=54&fontColor=00F7FF&animation=blink" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000814,50:001f3f,100:4d194d&height=170&text=CYBER%20ENGINE&fontSize=54&fontColor=00F7FF&animation=blink" />
 </p>
 
-## 🖤 DARK MODE PROFILE
+## 🖤 CORE SIGNAL
 
-Backend engineer focused on building stable systems, reliable APIs and business logic that actually move products forward. I like clean architecture, scalable logic and serious engineering under pressure.
+Backend developer building clean, reliable and useful systems for real business tasks. I focus on API design, product logic, and scalable digital solutions.
 
 ---
 
-## 🔥 TECH STACK
+## ⚡ STACK
 
 <p>
   <img src="https://skillicons.dev/icons?i=cs,dotnet,aspnet,visualstudio,vscode,git,github,mssql" />
@@ -52,16 +52,16 @@ Backend engineer focused on building stable systems, reliable APIs and business 
 
 ### Financial Manager for Business
 
-> Management system for operations, employees, warehouse and finance.
+> System for operations, finance, warehouse and analytics.
 
 - 👤 Owner registration
 - 🔑 Employee access codes
 - 📦 Inventory management
-- 💰 Cash flow tracking
+- 💰 Income and expense tracking
 - 📊 Business analytics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-FFB703?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-FFB703?style=for-the-badge" alt="Project status" />
 </p>
 
 ---
@@ -73,17 +73,17 @@ Backend engineer focused on building stable systems, reliable APIs and business 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ismatjonov&theme=tokyo-night" alt="Activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ismatjonov&theme=tokyo-night" alt="GitHub activity graph" />
 </p>
 
 ---
 
-## 📡 CONTACT
+## 📡 CONTACTS
 
 - Telegram: [@ibb1488](https://t.me/ibb1488)
 - Email: [bakhtovar685@gmail.com](mailto:bakhtovar685@gmail.com)
 - GitHub: [@Ismatjonov](https://github.com/Ismatjonov)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OPERATIONAL-ONLINE-00F7FF?style=for-the-badge" alt="Operational status" />
+  <img src="https://img.shields.io/badge/OPERATIONAL-READY-00F7FF?style=for-the-badge" alt="Operational ready" />
 </p>
