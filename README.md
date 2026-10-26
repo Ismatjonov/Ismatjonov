@@ -1,11 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&lines=Бахтовар+Исматджонов;Backend+Developer;C%23+%7C+ASP.NET+Core" alt="Typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&lines=Бахтовар+Исматджонов;Backend+Developer;C%23+%7C+ASP.NET+Core" alt="Typing intro" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend-Developer-00D4FF?style=for-the-badge&logo=csharp&logoColor=white" alt="Backend Developer" />
+  <img src="https://img.shields.io/badge/NEON-Backend%20Builder-00E5FF?style=for-the-badge&logo=codeium&logoColor=white" alt="neon builder" />
   <img src="https://img.shields.io/badge/C%23-ASP.NET%20Core-512BD4?style=for-the-badge&logo=.NET&logoColor=white" alt="C# ASP.NET Core" />
-  <img src="https://img.shields.io/badge/Learning-Real+projects-1BD4A5?style=for-the-badge" alt="Learning real projects" />
+  <img src="https://img.shields.io/badge/Learning-Real%20Projects-1BD4A5?style=for-the-badge" alt="Learning real projects" />
 </p>
 
 <p align="center">
@@ -21,22 +21,22 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&color=7AF3FF&center=true&vCenter=true&lines=Создаю+API+и+бизнес-решения;Учусь+на+реальных+проектам;Стремлюсь+к+сильному+backend+росту" alt="Short intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&color=7AF3FF&center=true&vCenter=true&lines=Пишу+API+и+бизнес-системы;Учусь+на+реальных+задачах;Строю+сильный+backend+рост" alt="Short intro" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:512bd4&height=120&section=header&text=Backend%20Builder&fontSize=42&fontColor=ffffff&animation=blink" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00e5ff,100:7a5cff&height=170&text=Backend%20Builder&fontSize=52&fontColor=ffffff&animation=wave&rotate=0" />
 </p>
 
-## 👋 Коротко о себе
+## ✨ О себе
 
-Я — backend-разработчик, который учится строить надежные серверные решения, API и системы для реального бизнеса. Мне интересно писать код, который не просто работает, а реально помогает людям и компаниям.
+Я — backend-разработчик, который учится строить быстрые, понятные и полезные серверные решения. Люблю писать код, который помогает бизнесу, автоматизирует процессы и решает реальные задачи.
 
 ---
 
-## ⚙️ Технологии
+## ⚡ Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=cs,dotnet,aspnet,visualstudio,vscode,git,github,mssql" />
@@ -52,21 +52,21 @@
 
 ### Financial Manager for Business
 
-> Система для управления бизнесом: финансы, сотрудники, склад и аналитика.
+> Система для управления бизнесом: финансы, склад, сотрудники и аналитика.
 
-- 👤 Регистрация владельца бизнеса
-- 🔑 Генерация уникального кода для сотрудников
+- 👤 Регистрация владельца
+- 🔑 Уникальный код для сотрудников
 - 📦 Управление складом
 - 💰 Учет доходов и расходов
-- 📊 Показатели и аналитика
+- 📊 Аналитика
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Active%20Development-FFD43B?style=for-the-badge" alt="Project status" />
+  <img src="https://img.shields.io/badge/Status-In%20Development-FFD43B?style=for-the-badge" alt="Project status" />
 </p>
 
 ---
 
-## 📊 GitHub статистика
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ismatjonov&theme=tokyonight" alt="GitHub streak stats" />
@@ -85,5 +85,5 @@
 - GitHub: [@Ismatjonov](https://github.com/Ismatjonov)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Always%20learning-Backend%20growth-00D4FF?style=for-the-badge" alt="Always learning" />
+  <img src="https://img.shields.io/badge/Always%20Learning-Neon%20Growth-00E5FF?style=for-the-badge" alt="Always learning" />
 </p>
