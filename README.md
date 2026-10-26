@@ -39,7 +39,7 @@ Backend developer building clean, reliable and useful systems for real business 
 ## ⚡ STACK
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,aspnet,visualstudio,vscode,git,github,mssql" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,git,github,mssql" />
 </p>
 
 <p>
