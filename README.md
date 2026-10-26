@@ -1,11 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&lines=Бахтовар+Исматджонов;Backend+Developer;C%23+%7C+ASP.NET+Core" alt="Typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&lines=Бахтовар+Исматджонов;Electric+Backend+Engineer;C%23+ASP.NET+Core" alt="Typing intro" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NEON-Backend%20Builder-00E5FF?style=for-the-badge&logo=codeium&logoColor=white" alt="neon builder" />
+  <img src="https://img.shields.io/badge/Electric-Backend-00F7FF?style=for-the-badge&logo=code&logoColor=white" alt="Electric backend" />
   <img src="https://img.shields.io/badge/C%23-ASP.NET%20Core-512BD4?style=for-the-badge&logo=.NET&logoColor=white" alt="C# ASP.NET Core" />
-  <img src="https://img.shields.io/badge/Learning-Real%20Projects-1BD4A5?style=for-the-badge" alt="Learning real projects" />
+  <img src="https://img.shields.io/badge/Building-Real%20Solutions-25D366?style=for-the-badge" alt="Building real solutions" />
 </p>
 
 <p align="center">
@@ -21,22 +21,22 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&color=7AF3FF&center=true&vCenter=true&lines=Пишу+API+и+бизнес-системы;Учусь+на+реальных+задачах;Строю+сильный+backend+рост" alt="Short intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&color=7AF3FF&center=true&vCenter=true&lines=API+%7C+Business+logic+%7C+Backend+systems;Learning+by+building;Creating+useful+solutions" alt="Intro text" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00e5ff,100:7a5cff&height=170&text=Backend%20Builder&fontSize=52&fontColor=ffffff&animation=wave&rotate=0" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f7ff,50:8a2be2,100:1d4ed8&height=170&text=Electric%20Dev&fontSize=52&fontColor=ffffff&animation=twinkling" />
 </p>
 
-## ✨ О себе
+## ⚡ Кто я
 
-Я — backend-разработчик, который учится строить быстрые, понятные и полезные серверные решения. Люблю писать код, который помогает бизнесу, автоматизирует процессы и решает реальные задачи.
+Я — backend-разработчик, который учится строить быстрые и надежные серверные решения. Мне интересны API, логика бизнеса, архитектура приложений и создание систем, которые реально приносят пользу.
 
 ---
 
-## ⚡ Stack
+## 🔧 Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=cs,dotnet,aspnet,visualstudio,vscode,git,github,mssql" />
@@ -48,28 +48,28 @@
 
 ---
 
-## 🚀 Основной проект
+## 🚀 Current project
 
 ### Financial Manager for Business
 
-> Система для управления бизнесом: финансы, склад, сотрудники и аналитика.
+> Система для управления бизнесом, финансами, складом и сотрудниками.
 
-- 👤 Регистрация владельца
+- 👤 Регистрация владельца бизнеса
 - 🔑 Уникальный код для сотрудников
-- 📦 Управление складом
-- 💰 Учет доходов и расходов
-- 📊 Аналитика
+- 📦 Управление остатками
+- 💰 Учет расходов и доходов
+- 📊 Аналитика и показатели
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-In%20Development-FFD43B?style=for-the-badge" alt="Project status" />
+  <img src="https://img.shields.io/badge/Status-In%20Development-F7C948?style=for-the-badge" alt="In development" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ismatjonov&theme=tokyonight" alt="GitHub streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ismatjonov&theme=tokyonight" alt="GitHub streak" />
 </p>
 
 <p align="center">
@@ -78,12 +78,12 @@
 
 ---
 
-## 📫 Контакты
+## 📫 Contact
 
 - Telegram: [@ibb1488](https://t.me/ibb1488)
 - Email: [bakhtovar685@gmail.com](mailto:bakhtovar685@gmail.com)
 - GitHub: [@Ismatjonov](https://github.com/Ismatjonov)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Always%20Learning-Neon%20Growth-00E5FF?style=for-the-badge" alt="Always learning" />
+  <img src="https://img.shields.io/badge/Always%20Learning-Electric%20Growth-00F7FF?style=for-the-badge" alt="Always learning" />
 </p>
