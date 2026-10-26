@@ -1,11 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&lines=Бахтовар+Исматджонов;Electric+Backend+Engineer;C%23+ASP.NET+Core" alt="Typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&lines=BAKHTOVAR+ISMATJONOV;CYBER+BACKEND;C%23+ASP.NET+CORE" alt="Cyber intro" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Electric-Backend-00F7FF?style=for-the-badge&logo=code&logoColor=white" alt="Electric backend" />
-  <img src="https://img.shields.io/badge/C%23-ASP.NET%20Core-512BD4?style=for-the-badge&logo=.NET&logoColor=white" alt="C# ASP.NET Core" />
-  <img src="https://img.shields.io/badge/Building-Real%20Solutions-25D366?style=for-the-badge" alt="Building real solutions" />
+  <img src="https://img.shields.io/badge/CYBER--MODE-ONLINE-00F7FF?style=for-the-badge&logo=code&logoColor=white" alt="Cyber mode online" />
+  <img src="https://img.shields.io/badge/.NET-C%23-512BD4?style=for-the-badge&logo=.NET&logoColor=white" alt=".NET C#" />
+  <img src="https://img.shields.io/badge/BUILDING-REAL%20SYSTEMS-FF4D6D?style=for-the-badge" alt="Building real systems" />
 </p>
 
 <p align="center">
@@ -21,22 +21,22 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&color=7AF3FF&center=true&vCenter=true&lines=API+%7C+Business+logic+%7C+Backend+systems;Learning+by+building;Creating+useful+solutions" alt="Intro text" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&color=00F7FF&center=true&vCenter=true&lines=Код+как+система;API+как+инфраструктура;Сборка+реальных+решений" alt="cyber text" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f7ff,50:8a2be2,100:1d4ed8&height=170&text=Electric%20Dev&fontSize=52&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00f7ff,50:8a2be2,100:ff4d6d&height=180&text=NEON%20BACKEND&fontSize=52&fontColor=ffffff&animation=twinkling" />
 </p>
 
-## ⚡ Кто я
+## 🧠 Profile
 
-Я — backend-разработчик, который учится строить быстрые и надежные серверные решения. Мне интересны API, логика бизнеса, архитектура приложений и создание систем, которые реально приносят пользу.
+Backend-разработчик, который строит понятные и устойчивые системы для бизнеса. В работе мне важно не только писать код, но и создавать архитектуру, которая будет расти вместе с продуктом.
 
 ---
 
-## 🔧 Stack
+## 🔥 Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=cs,dotnet,aspnet,visualstudio,vscode,git,github,mssql" />
@@ -48,20 +48,20 @@
 
 ---
 
-## 🚀 Current project
+## 🚀 Project
 
 ### Financial Manager for Business
 
-> Система для управления бизнесом, финансами, складом и сотрудниками.
+> Система управления бизнесом: финансы, склад, сотрудники и аналитика.
 
-- 👤 Регистрация владельца бизнеса
-- 🔑 Уникальный код для сотрудников
-- 📦 Управление остатками
-- 💰 Учет расходов и доходов
-- 📊 Аналитика и показатели
+- 👤 Регистрация владельца
+- 🔑 Сотруднические коды
+- 📦 Управление складом
+- 💰 Учет доходов и расходов
+- 📊 Бизнес-аналитика
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-In%20Development-F7C948?style=for-the-badge" alt="In development" />
+  <img src="https://img.shields.io/badge/Status-Active%20Development-FFB703?style=for-the-badge" alt="Status" />
 </p>
 
 ---
@@ -69,11 +69,11 @@
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ismatjonov&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ismatjonov&theme=tokyonight" alt="GitHub streak stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ismatjonov&theme=tokyo-night" alt="GitHub activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ismatjonov&theme=tokyo-night" alt="Activity graph" />
 </p>
 
 ---
@@ -85,5 +85,5 @@
 - GitHub: [@Ismatjonov](https://github.com/Ismatjonov)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Always%20Learning-Electric%20Growth-00F7FF?style=for-the-badge" alt="Always learning" />
+  <img src="https://img.shields.io/badge/System-Online-00F7FF?style=for-the-badge" alt="System online" />
 </p>
