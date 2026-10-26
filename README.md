@@ -1,5 +1,5 @@
 <h1 align="center">Привет 👋, я Бахтовар</h1>
-<h3 align="center">Backend Developer • C# / ASP.NET Core • Learning and building</h3>
+<h3 align="center">Backend Developer • C# / ASP.NET Core • Building useful products</h3>
 
 <p align="center">
   <a href="https://t.me/ibb1488" target="_blank">
@@ -14,83 +14,85 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1abc9c&center=true&vCenter=true&lines=C%23+Developer;ASP.NET+Core;Backend+Learning;Building+Projects;Always+Improving" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=C%23+Developer;ASP.NET+Core+Learner;Backend+Engineer+In+Progress;Building+Business+Solutions;Always+Improving" />
 </p>
 
 ---
 
 ## 🧑‍💻 Обо мне
 
-Привет! Я Бахтовар — начинающий backend-разработчик, который активно учится и создает реальные проекты на C# и ASP.NET Core. Меня интересует разработка серверной части приложений, API, логики бизнеса и создание решений, которые реально помогают людям.
+Я — backend-разработчик в процессе роста, который учится создавать надежные серверные решения, API и бизнес-системы на C# и ASP.NET Core. Мне интересно не просто писать код, а создавать продукты, которые реально помогают людям и бизнесу.
 
-- 💻 Изучаю C# и ASP.NET Core
-- 🧱 Развиваю backend-навыки через реальные проекты
-- 📦 Интересуюсь бизнес-системами и SaaS-идеями
-- 🤖 Хочу объединять разработку с ИИ и автоматизацией
-- 🚀 Стремлюсь расти и становиться сильным разработчиком
+- 💻 Основной фокус: C#, ASP.NET Core, backend-логика
+- 🏗️ Разрабатываю решения для реальных задач и бизнес-процессов
+- 📦 Интересуюсь системами, SaaS-продуктами и автоматизацией
+- 🤖 Хочу соединить backend-разработку с возможностями ИИ
+- 🚀 Стремлюсь расти как сильный инженер и создавать полезные продукты
 
 ---
 
-## 🛠️ Stack
+## 🛠️ Технологии
 
-### Основной стек
+### Backend Stack
 <p>
   <img src="https://skillicons.dev/icons?i=cs,dotnet,aspnet,visualstudio,vscode,git,github,mssql" />
 </p>
 
-### Дополнительно
+### Дополнительные инструменты
 <p>
-  <img src="https://skillicons.dev/icons?i=python,php,js,html,css,bootstrap,tailwind,vue,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,php,js,ts,html,css,bootstrap,tailwind,vue,mysql" />
 </p>
 
 ---
 
-## 🚀 Мой проект
+## 🚀 Основной проект
 
 ### 💼 Financial Manager for Business
 
-Это мой текущий проект — система для автоматизации работы бизнеса: учет финансов, склад, сотрудники и аналитика.
+> Система для управления бизнесом: финансы, сотрудники, склад, аналитика и внутренние процессы.
 
-#### Что в проекте:
+#### Что уже реализовано / планируется:
 - 👤 Регистрация владельца бизнеса
 - 🔑 Уникальный код для сотрудников
-- 📦 Управление складом
+- 📦 Управление складом и остатками
 - 💰 Учет доходов и расходов
 - 📊 Аналитика и показатели бизнеса
+- 🧩 Масштабирование под задачи реального предприятия
 
 #### Статус
-🚧 Проект в разработке и постоянно улучшается
+🚧 Проект активно развивается
 
 ---
 
 ## 📚 Сейчас изучаю
 
 - 🔹 ASP.NET Core
-- 🔹 REST API
-- 🔹 SQL Server и базы данных
-- 🔹 Архитектура приложений
-- 🔹 Backend-проектирование и API-логика
+- 🔹 REST API и backend-архитектура
+- 🔹 SQL Server и работа с базами данных
+- 🔹 Clean Architecture и проектирование систем
+- 🔹 Производительность, безопасность и масштабируемость
+- 🔹 Интеграция ИИ в реальные продукты
 
 ---
 
-## 🎯 Мои цели
+## 🎯 Цели
 
 - 🌱 Стать сильным backend-разработчиком
-- 💡 Создавать полезные и практичные проекты
-- 🧠 Использовать ИИ в разработке и рабочих задачах
-- 💸 Сделать собственный продукт или SaaS-проект
-- 🌍 Развиваться и учиться у сильных специалистов
+- 💡 Создавать полезные и практичные продукты
+- 🧠 Использовать ИИ в разработке и бизнес-решениях
+- 💸 Развивать собственные SaaS-идеи
+- 🌍 Работать в сильной команде и расти вместе с экспертами
 
 ---
 
 ## 📊 GitHub статистика
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ismatjonov&theme=tokyonight" alt="GitHub streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ismatjonov&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ismatjonov&theme=tokyo-night" alt="GitHub activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ismatjonov&theme=tokyo-night" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -104,5 +106,5 @@
 ---
 
 <p align="center">
-  ⭐ Спасибо, что зашли в мой профиль!
+  <strong>Строю решения, которые помогают и развивают бизнес.</strong>
 </p>
