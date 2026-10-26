@@ -1,4 +1,4 @@
-<h1 align="center">Привет 👋, я Бахтовар</h1>
+<h1 align="center">Бахтовар Исматджонов</h1>
 <h3 align="center">Backend Developer • C# / ASP.NET Core • Building useful products</h3>
 
 <p align="center">
@@ -35,7 +35,7 @@
 
 ### Backend Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,aspnet,visualstudio,vscode,git,github,mssql" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,aspnetcore,visualstudio,vscode,git,github,mssql" />
 </p>
 
 ### Дополнительные инструменты
