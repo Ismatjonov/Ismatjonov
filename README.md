@@ -1,11 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&lines=BAKHTOVAR+ISMATJONOV;CYBER+BACKEND;C%23+ASP.NET+CORE" alt="Cyber intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&lines=BAKHTOVAR+ISMATJONOV;DARK+CYBER+ENGINEER;C%23+ASP.NET+CORE" alt="Dark hacker intro" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LEVEL-ALPHA-00F7FF?style=for-the-badge&logo=code&logoColor=white" alt="Level alpha" />
-  <img src="https://img.shields.io/badge/.NET-C%23-512BD4?style=for-the-badge&logo=.NET&logoColor=white" alt="C# .NET" />
-  <img src="https://img.shields.io/badge/STATUS-BUILDING-FF4D6D?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/DARK-CRYPTO-%2300F7FF?style=for-the-badge&logo=github&logoColor=white" alt="Dark crypto" />
+  <img src="https://img.shields.io/badge/.NET-C%23-512BD4?style=for-the-badge&logo=.NET&logoColor=white" alt=".NET C#" />
+  <img src="https://img.shields.io/badge/CORE-BACKEND-FF4D6D?style=for-the-badge" alt="Core backend" />
 </p>
 
 <p align="center">
@@ -21,22 +21,22 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&color=00F7FF&center=true&vCenter=true&lines=BUILDING+SYSTEMS;API+CRITICAL+PATH;REAL+WORLD+SOLUTIONS" alt="Cyber text" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&color=00F7FF&center=true&vCenter=true&lines=BUILDING+SYSTEMS;POWERING+BUSINESS+LOGIC;REAL+WORLD+APIs" alt="Dark hacker text" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00f7ff,50:8a2be2,100:ff4d6d&height=180&text=NEON%20ENGINE&fontSize=54&fontColor=ffffff&animation=blink" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000814,50:001f3f,100:4d194d&height=170&text=CYBER%20ELITE&fontSize=54&fontColor=00F7FF&animation=blink" />
 </p>
 
-## ⚡ SYSTEM PROFILE
+## 🖤 DARK MODE PROFILE
 
-Backend developer building fast, clean and practical systems for business. Focused on API, backend logic and solutions that actually work in real life.
+Backend engineer focused on building stable systems, reliable APIs and business logic that actually move products forward. I like clean architecture, scalable logic and serious engineering under pressure.
 
 ---
 
-## 🔥 STACK
+## 🔥 TECH STACK
 
 <p>
   <img src="https://skillicons.dev/icons?i=cs,dotnet,aspnet,visualstudio,vscode,git,github,mssql" />
@@ -52,21 +52,21 @@ Backend developer building fast, clean and practical systems for business. Focus
 
 ### Financial Manager for Business
 
-> Business system for managing operations, team, storage and analytics.
+> Management system for operations, employees, warehouse and finance.
 
-- 👤 Business owner registration
-- 🔑 Employee access code
-- 📦 Warehouse management
-- 💰 Income and expense tracking
-- 📊 Reports and analytics
+- 👤 Owner registration
+- 🔑 Employee access codes
+- 📦 Inventory management
+- 💰 Cash flow tracking
+- 📊 Business analytics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-FFB703?style=for-the-badge" alt="Project status" />
+  <img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-FFB703?style=for-the-badge" alt="Status" />
 </p>
 
 ---
 
-## 📊 STATS
+## 📊 SYSTEM METRICS
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ismatjonov&theme=tokyonight" alt="GitHub streak stats" />
@@ -85,5 +85,5 @@ Backend developer building fast, clean and practical systems for business. Focus
 - GitHub: [@Ismatjonov](https://github.com/Ismatjonov)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F7FF?style=for-the-badge" alt="System online" />
+  <img src="https://img.shields.io/badge/OPERATIONAL-ONLINE-00F7FF?style=for-the-badge" alt="Operational status" />
 </p>
