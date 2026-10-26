@@ -1,5 +1,5 @@
-<h1 align="center">Привет, я Бахтовар 👋</h1>
-<h3 align="center">Backend Engineer • C# / ASP.NET Core • Building scalable and reliable systems</h3>
+<h1 align="center">Привет 👋, я Бахтовар</h1>
+<h3 align="center">Backend Developer • C# / ASP.NET Core • Learning and building</h3>
 
 <p align="center">
   <a href="https://t.me/ibb1488" target="_blank">
@@ -14,85 +14,83 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00E5FF&center=true&vCenter=true&lines=C%23+Developer;ASP.NET+Core+Developer;Backend+Engineer;Problem+Solver;Building+Business+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=1abc9c&center=true&vCenter=true&lines=C%23+Developer;ASP.NET+Core;Backend+Learning;Building+Projects;Always+Improving" />
 </p>
 
 ---
 
-## 🧠 Обо мне
+## 🧑‍💻 Обо мне
 
-Я — backend-разработчик, который развивает навыки в разработке надежных серверных систем, API, бизнес-логики и архитектуры приложений. Мне интересно строить решения, которые не просто работают, а действительно приносят ценность пользователям и бизнесу.
+Привет! Я Бахтовар — начинающий backend-разработчик, который активно учится и создает реальные проекты на C# и ASP.NET Core. Меня интересует разработка серверной части приложений, API, логики бизнеса и создание решений, которые реально помогают людям.
 
-- 💻 Основной стек: C#, ASP.NET Core, SQL Server
-- 🏗️ Пишу backend-сервисы для реальных задач и бизнес-процессов
-- 📈 Стремлюсь к созданию масштабируемых и чистых архитектурных решений
-- 🤖 Интересуюсь интеграцией ИИ в продукты и процессы
-- 🚀 Цель — становиться сильным backend-инженером и создавать полезные SaaS-решения
+- 💻 Изучаю C# и ASP.NET Core
+- 🧱 Развиваю backend-навыки через реальные проекты
+- 📦 Интересуюсь бизнес-системами и SaaS-идеями
+- 🤖 Хочу объединять разработку с ИИ и автоматизацией
+- 🚀 Стремлюсь расти и становиться сильным разработчиком
 
 ---
 
-## 🛠️ Технологический стек
+## 🛠️ Stack
 
-### Backend
+### Основной стек
 <p>
   <img src="https://skillicons.dev/icons?i=cs,dotnet,aspnet,visualstudio,vscode,git,github,mssql" />
 </p>
 
-### Languages & Tools
+### Дополнительно
 <p>
-  <img src="https://skillicons.dev/icons?i=python,php,js,ts,html,css,bootstrap,tailwind,vue,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,php,js,html,css,bootstrap,tailwind,vue,mysql" />
 </p>
 
 ---
 
-## 🚀 Основной проект
+## 🚀 Мой проект
 
 ### 💼 Financial Manager for Business
 
-> Веб-система для управления бизнесом: финансы, сотрудники, склад, аналитика и процессы.
+Это мой текущий проект — система для автоматизации работы бизнеса: учет финансов, склад, сотрудники и аналитика.
 
-#### Что реализовано / планируется
+#### Что в проекте:
 - 👤 Регистрация владельца бизнеса
-- 🔑 Генерация уникального 8-значного кода для сотрудников
-- 📦 Управление складом и остатками
+- 🔑 Уникальный код для сотрудников
+- 📦 Управление складом
 - 💰 Учет доходов и расходов
-- 📊 Аналитика и данные для принятия решений
-- 🧩 Масштабирование под реальные бизнес-процессы
+- 📊 Аналитика и показатели бизнеса
 
 #### Статус
-🚧 Проект находится в активной разработке и постоянно улучшается
+🚧 Проект в разработке и постоянно улучшается
 
 ---
 
-## 📚 Что я изучаю сейчас
+## 📚 Сейчас изучаю
 
-- 🔹 ASP.NET Core и REST API
-- 🔹 Работа с БД и SQL Server
-- 🔹 Архитектура backend-приложений
-- 🔹 Чистая архитектура и проектирование сервисов
-- 🔹 Основы безопасности, производительности и масштабируемости
-- 🔹 Интеграция ИИ в реальные продукты
+- 🔹 ASP.NET Core
+- 🔹 REST API
+- 🔹 SQL Server и базы данных
+- 🔹 Архитектура приложений
+- 🔹 Backend-проектирование и API-логика
 
 ---
 
-## 🎯 Цели
+## 🎯 Мои цели
 
-- 🔥 Стать сильным backend-разработчиком уровня Middle+
-- 🏗️ Создавать надежные и удобные backend-системы
-- 🤖 Использовать ИИ в разработке и бизнес-решениях
-- 💸 Строить собственные SaaS-продукты и сервисы
-- 🌍 Работать в сильной международной команде и развиваться дальше
+- 🌱 Стать сильным backend-разработчиком
+- 💡 Создавать полезные и практичные проекты
+- 🧠 Использовать ИИ в разработке и рабочих задачах
+- 💸 Сделать собственный продукт или SaaS-проект
+- 🌍 Развиваться и учиться у сильных специалистов
 
 ---
 
 ## 📊 GitHub статистика
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ismatjonov&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ismatjonov&theme=tokyonight" alt="GitHub streak stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ismatjonov&theme=tokyo-night" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ismatjonov&theme=tokyo-night" alt="GitHub activity graph" />
 </p>
 
 ---
@@ -106,5 +104,5 @@
 ---
 
 <p align="center">
-  <strong>Строю решения, которые работают и решают задачи.</strong>
+  ⭐ Спасибо, что зашли в мой профиль!
 </p>
