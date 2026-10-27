@@ -55,10 +55,6 @@ Backend developer building clean, reliable and useful systems for real business 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ismatjonov&theme=tokyonight" alt="GitHub streak stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ismatjonov&theme=tokyo-night" alt="GitHub activity graph" />
-</p>
-
 ---
 
 ## 📡 CONTACTS
