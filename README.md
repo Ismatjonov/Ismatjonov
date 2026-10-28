@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&lines=BAKHTOVAR+ISMATJONOV;DARK+CYBER+ENGINEER;C%23+ASP.NET+CORE" alt="Dark cyber intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&lines=BAKHTOVAR;DARK+CYBER+ENGINEER;C%23+ASP.NET+CORE" alt="Dark cyber intro" />
 </h1>
 
 <p align="center">
