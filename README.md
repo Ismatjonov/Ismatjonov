@@ -62,6 +62,7 @@ Backend developer building clean, reliable and useful systems for real business 
 - Telegram: [@ibb1488](https://t.me/ibb1488)
 - Email: [bakhtovar685@gmail.com](mailto:bakhtovar685@gmail.com)
 - Instagram: [ismatjonov_](https://instagram.com/ismatjonov_)
+- TikTok: [ismatjonov🪖](https://tiktok.com/@roslyner)
 - GitHub: [@Ismatjonov](https://github.com/Ismatjonov)
 
 <p align="center">
