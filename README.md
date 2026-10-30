@@ -49,7 +49,7 @@ Backend developer building clean, reliable and useful systems for real business 
 
 ---
 
-## 📊 SYSTEM METRICS
+## 📊 SYSTEM METRIC
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ismatjonov&theme=tokyonight" alt="GitHub streak stats" />
@@ -61,6 +61,7 @@ Backend developer building clean, reliable and useful systems for real business 
 
 - Telegram: [@ibb1488](https://t.me/ibb1488)
 - Email: [bakhtovar685@gmail.com](mailto:bakhtovar685@gmail.com)
+- Instagram: [ismatjonov_](https://instagram.com/ismatjonov_)
 - GitHub: [@Ismatjonov](https://github.com/Ismatjonov)
 
 <p align="center">
