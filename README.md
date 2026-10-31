@@ -49,7 +49,7 @@ Backend developer building clean, reliable and useful systems for real business 
 
 ---
 
-## 📊 SYSTEM METRIC
+## 📊 SYSTEM METRICS
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ismatjonov&theme=tokyonight" alt="GitHub streak stats" />
