@@ -1,70 +1,26 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&lines=BAKHTOVAR;SOFTWARE+ENGINEER;C%23+ASP.NET+CORE" alt="Dark cyber intro" />
-</h1>
+# Hi, I'm Ismatjonov
 
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00F7FF?style=for-the-badge&logo=code&logoColor=white" alt="Status online" />
-  <img src="https://img.shields.io/badge/.NET-C%23-512BD4?style=for-the-badge&logo=.NET&logoColor=white" alt=".NET C#" />
-  <img src="https://img.shields.io/badge/BACKEND-BUILDER-FF4D6D?style=for-the-badge" alt="Backend builder" />
-</p>
+[![GitHub followers](https://img.shields.io/github/followers/Ismatjonov?style=flat-square&logo=github&label=followers)](https://github.com/Ismatjonov)
+[![GitHub stars](https://img.shields.io/github/stars/Ismatjonov?style=flat-square&logo=github&label=stars)](https://github.com/Ismatjonov)
+[![Profile views](https://komarev.com/ghpvc/?username=Ismatjonov&style=flat-square)](https://github.com/Ismatjonov)
 
-<p align="center">
-  <a href="https://t.me/ibb1488" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-%40ibb1488-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="mailto:bakhtovar685@gmail.com">
-    <img src="https://img.shields.io/badge/Email-bakhtovar685@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Ismatjonov" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Ismatjonov-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-</p>
+Software developer passionate about learning, building useful things, and improving my skills every day.
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&color=00F7FF&center=true&vCenter=true&lines=BUILDING+SYSTEMS;REAL+WORLD+API;BUSINESS+LOGIC" alt="Typing intro" />
-</p>
+### Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
+### GitHub Stats
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000814,50:001f3f,100:4d194d&height=170&text=ROSLYNER&fontSize=54&fontColor=00F7FF&animation=blink" />
-</p>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ismatjonov&show_icons=true&hide_border=true&theme=default)](https://github.com/Ismatjonov)
 
-## 🖤 CORE SIGNAL
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ismatjonov&layout=compact&hide_border=true&theme=default)](https://github.com/Ismatjonov)
 
-Backend developer building clean, reliable and useful systems for real business tasks. I focus on API design, product logic, and scalable digital solutions.
-
----
-
-## ⚡ STACK
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,git,github,mssql" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,php,js,ts,html,css,bootstrap,tailwind,vue,mysql" />
-</p>
-
-
----
-
-## 📊 SYSTEM METRICS
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ismatjonov&theme=tokyonight" alt="GitHub streak stats" />
-</p>
-
----
-
-## 📡 CONTACTS
-
-- Telegram: [@ibb1488](https://t.me/ibb1488)
-- Email: [bakhtovar685@gmail.com](mailto:bakhtovar685@gmail.com)
-- Instagram: [ismatjonov_](https://instagram.com/ismatjonov_)
-- TikTok: [ismatjonov🪖](https://tiktok.com/@roslyner)
-- GitHub: [@Ismatjonov](https://github.com/Ismatjonov)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/OPERATIONAL-READY-00F7FF?style=for-the-badge" alt="Operational ready" />
-</p>
+### Currently
+- Building and learning
+- Exploring new tools and frameworks
+- Improving code quality and problem-solving
